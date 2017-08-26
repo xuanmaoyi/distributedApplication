@@ -12,7 +12,6 @@
         <module>common</module>
         <module>provider</module>
         <module>consumer</module>
-        <module>dubboadmin</module>
     </modules>
     <properties>
         <springframework.version>4.1.6.RELEASE</springframework.version>
